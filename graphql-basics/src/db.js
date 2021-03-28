@@ -41,7 +41,7 @@ const posts = [
     title: "here is your solution",
     body:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie maximus lorem, quis facilisis enim varius eget. Curabitur in efficitur enim.",
-    published: true,
+    published: false,
     author: "1",
   },
 ];
